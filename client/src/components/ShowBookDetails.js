@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import "../App.css";
 import { withAlert } from "react-alert";
+import moment from "moment";
 import axios from "axios";
 
 class showBookDetails extends Component {
@@ -70,7 +71,7 @@ class showBookDetails extends Component {
             <tr>
               <th scope="row">5</th>
               <td>Published Date</td>
-              <td>{book.published_date}</td>
+              <td>{moment(book.published_date).format("DD/MM/YYYY")}</td>
             </tr>
             <tr>
               <th scope="row">6</th>
