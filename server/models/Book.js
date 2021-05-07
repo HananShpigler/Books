@@ -24,7 +24,7 @@ const BookSchema = new mongoose.Schema({
   },
   updated_date: {
     type: Date,
-    default: Date.now,
+    default: new Date(),
   },
 });
 
