@@ -13,6 +13,6 @@
 ##### 4. Add a new terminal and navigate one to the server and one to the client using ***`cd command`*** #####
 ##### 5. type ***`npm start`*** both in server and client terminals to start the app #####
 
- ###### 📚 *Enjoy using the app !* 📚 ######
+ ###### 📚 *Enjoy using the app !!* 📚 ######
 
 
