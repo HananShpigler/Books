@@ -1,10 +1,10 @@
 # Books
 ***A simple book app where you can create/add new book, update/delete existing book and view the book details.***
 
-<img src="images/1.png" width=600>
-<img src="images/2.png" width=600>
-<img src="images/3.png" width=600>
-<img src="images/4.png" width=600>
+<img src="images/1.png" width=400>
+<img src="images/2.png" width=400>
+<img src="images/3.png" width=400>
+<img src="images/4.png" width=400>
 
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
